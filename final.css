@@ -1,0 +1,14 @@
+body {
+    background-color: yellow;
+}
+  
+h1 {
+  color: navy;
+  margin-left: 200px;
+}
+
+#myDiv{
+  background-color: black;
+  border-style: line;
+  border-color: black;
+}
