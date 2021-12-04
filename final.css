@@ -8,8 +8,8 @@ h1 {
 }
 
 #test{
-  background-color: black;
-  border-style: line;
+  background-color: green;
+  border-style: dotted;
   border-color: black;
 }
 
