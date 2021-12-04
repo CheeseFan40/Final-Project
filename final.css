@@ -13,8 +13,7 @@ h1 {
   border-color: blue;
 }
 
-<style>
-.bold {
+#bold {
     font-weight: bold;
 }
-</style>
+
