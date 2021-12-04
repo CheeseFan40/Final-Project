@@ -7,8 +7,14 @@ h1 {
   margin-left: 200px;
 }
 
-#myDiv{
+#test{
   background-color: black;
   border-style: line;
   border-color: black;
 }
+
+<style>
+.bold {
+    font-weight: bold;
+}
+</style>
