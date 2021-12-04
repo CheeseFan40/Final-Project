@@ -8,9 +8,9 @@ h1 {
 }
 
 #test{
-  background-color: green;
+  background-color: blue;
   border-style: dotted;
-  border-color: black;
+  border-color: blue;
 }
 
 <style>
